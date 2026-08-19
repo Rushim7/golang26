@@ -20,8 +20,9 @@ func calAverage(student *Student) (float64, float64) {
 	return total, average
 }
 
-func main() {
+func Students() {
 
+	fmt.Println("----------------")
 	fmt.Println("Student Details")
 
 	students := [3]Student{
