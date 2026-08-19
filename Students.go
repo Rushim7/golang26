@@ -1,4 +1,4 @@
-// Task: Creating a package using struct, array , forloop and switch on students data
+// Task: Creating a package using struct, array ,pointers, forloop and switch on students data
 package main
 
 import "fmt"
