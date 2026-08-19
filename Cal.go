@@ -1,3 +1,4 @@
+// Task: Creating a package on calculations
 package main
 
 import (
